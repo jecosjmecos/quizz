@@ -1,0 +1,32 @@
+[
+  {
+    "question":"Ваш пол",
+    "answers":{
+      "man":{
+        "text": "Мужчина",
+        "image": "https://picsum.photos/200"
+      },
+      "woman":{
+        "text": "Женщина",
+        "image": "https://picsum.photos/300"
+      }
+    }
+  },
+  {
+    "question":"Какой сезон?",
+    "answers":{
+      "winter":"Зима",
+      "spring":"Весна",
+      "summer":"Лето",
+      "autumn":"Осень"
+    }
+  },
+  {
+    "question":"Какой наряд?",
+    "answers":{
+      "business":"Деловой",
+      "sport":"Спортивный",
+      "casual":"Повседневный"
+    }
+  }
+]
